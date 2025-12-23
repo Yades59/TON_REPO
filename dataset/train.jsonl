@@ -379,3 +379,303 @@
 {"instruction":"24 cartoon, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"cartoon","batch":{"count":24}}}}
 {"instruction":"28 cartoon, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"cartoon","batch":{"count":28}}}}
 {"instruction":"28 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":28}}}}
+{"instruction":"4 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":4}}}}
+{"instruction":"94 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":94}}}}
+{"instruction":"49 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":49}}}}
+{"instruction":"20 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":20}}}}
+{"instruction":"60 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":60}}}}
+{"instruction":"28 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":28}}}}
+{"instruction":"36 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":36}}}}
+{"instruction":"87 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":87}}}}
+{"instruction":"10 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":10}}}}
+{"instruction":"78 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":78}}}}
+{"instruction":"50 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":50}}}}
+{"instruction":"55 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":55}}}}
+{"instruction":"61 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":61}}}}
+{"instruction":"80 realistic, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":80}}}}
+{"instruction":"57 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":57}}}}
+{"instruction":"65 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":65}}}}
+{"instruction":"13 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":13}}}}
+{"instruction":"78 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":78}}}}
+{"instruction":"63 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":63}}}}
+{"instruction":"73 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":73}}}}
+{"instruction":"61 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":61}}}}
+{"instruction":"58 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":58}}}}
+{"instruction":"79 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":79}}}}
+{"instruction":"48 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":48}}}}
+{"instruction":"58 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":58}}}}
+{"instruction":"43 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":43}}}}
+{"instruction":"87 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":87}}}}
+{"instruction":"5 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":5}}}}
+{"instruction":"23 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":23}}}}
+{"instruction":"8 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":8}}}}
+{"instruction":"73 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":73}}}}
+{"instruction":"72 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":72}}}}
+{"instruction":"61 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":61}}}}
+{"instruction":"39 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":39}}}}
+{"instruction":"76 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":76}}}}
+{"instruction":"18 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":18}}}}
+{"instruction":"41 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":41}}}}
+{"instruction":"94 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":94}}}}
+{"instruction":"1 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":1}}}}
+{"instruction":"27 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":27}}}}
+{"instruction":"58 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":58}}}}
+{"instruction":"81 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":81}}}}
+{"instruction":"27 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":27}}}}
+{"instruction":"68 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":68}}}}
+{"instruction":"33 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":33}}}}
+{"instruction":"33 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":33}}}}
+{"instruction":"33 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":33}}}}
+{"instruction":"71 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":71}}}}
+{"instruction":"68 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":68}}}}
+{"instruction":"15 realistic, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":15}}}}
+{"instruction":"11 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":11}}}}
+{"instruction":"68 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":68}}}}
+{"instruction":"68 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":68}}}}
+{"instruction":"83 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":83}}}}
+{"instruction":"32 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":32}}}}
+{"instruction":"95 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":95}}}}
+{"instruction":"70 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":70}}}}
+{"instruction":"11 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":11}}}}
+{"instruction":"11 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":11}}}}
+{"instruction":"48 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":48}}}}
+{"instruction":"22 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":22}}}}
+{"instruction":"58 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":58}}}}
+{"instruction":"24 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":24}}}}
+{"instruction":"75 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":75}}}}
+{"instruction":"12 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":12}}}}
+{"instruction":"56 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":56}}}}
+{"instruction":"18 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":18}}}}
+{"instruction":"38 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":38}}}}
+{"instruction":"99 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":99}}}}
+{"instruction":"84 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":84}}}}
+{"instruction":"19 stylized, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"stylized","batch":{"count":19}}}}
+{"instruction":"13 stylized, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"stylized","batch":{"count":13}}}}
+{"instruction":"38 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":38}}}}
+{"instruction":"97 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":97}}}}
+{"instruction":"33 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":33}}}}
+{"instruction":"63 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":63}}}}
+{"instruction":"6 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":6}}}}
+{"instruction":"15 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":15}}}}
+{"instruction":"67 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":67}}}}
+{"instruction":"60 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":60}}}}
+{"instruction":"18 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":18}}}}
+{"instruction":"37 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":37}}}}
+{"instruction":"79 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":79}}}}
+{"instruction":"68 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":68}}}}
+{"instruction":"12 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":12}}}}
+{"instruction":"39 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":39}}}}
+{"instruction":"79 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":79}}}}
+{"instruction":"55 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":55}}}}
+{"instruction":"18 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":18}}}}
+{"instruction":"44 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":44}}}}
+{"instruction":"93 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":93}}}}
+{"instruction":"31 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":31}}}}
+{"instruction":"56 stylized, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"stylized","batch":{"count":56}}}}
+{"instruction":"75 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":75}}}}
+{"instruction":"21 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":21}}}}
+{"instruction":"28 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":28}}}}
+{"instruction":"41 stylized, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"stylized","batch":{"count":41}}}}
+{"instruction":"64 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":64}}}}
+{"instruction":"71 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":71}}}}
+{"instruction":"85 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":85}}}}
+{"instruction":"2 realistic, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":2}}}}
+{"instruction":"87 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":87}}}}
+{"instruction":"71 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":71}}}}
+{"instruction":"99 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":99}}}}
+{"instruction":"4 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":4}}}}
+{"instruction":"29 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":29}}}}
+{"instruction":"50 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":50}}}}
+{"instruction":"11 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":11}}}}
+{"instruction":"34 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":34}}}}
+{"instruction":"66 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":66}}}}
+{"instruction":"39 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":39}}}}
+{"instruction":"26 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":26}}}}
+{"instruction":"11 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":11}}}}
+{"instruction":"96 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":96}}}}
+{"instruction":"37 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":37}}}}
+{"instruction":"19 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":19}}}}
+{"instruction":"44 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":44}}}}
+{"instruction":"59 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":59}}}}
+{"instruction":"35 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":35}}}}
+{"instruction":"37 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":37}}}}
+{"instruction":"99 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":99}}}}
+{"instruction":"14 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":14}}}}
+{"instruction":"50 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":50}}}}
+{"instruction":"61 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":61}}}}
+{"instruction":"94 cartoon, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"cartoon","batch":{"count":94}}}}
+{"instruction":"98 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":98}}}}
+{"instruction":"80 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":80}}}}
+{"instruction":"100 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":100}}}}
+{"instruction":"77 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":77}}}}
+{"instruction":"89 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":89}}}}
+{"instruction":"70 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":70}}}}
+{"instruction":"86 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":86}}}}
+{"instruction":"53 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":53}}}}
+{"instruction":"4 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":4}}}}
+{"instruction":"60 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":60}}}}
+{"instruction":"94 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":94}}}}
+{"instruction":"87 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":87}}}}
+{"instruction":"65 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":65}}}}
+{"instruction":"95 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":95}}}}
+{"instruction":"53 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":53}}}}
+{"instruction":"31 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":31}}}}
+{"instruction":"56 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":56}}}}
+{"instruction":"90 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":90}}}}
+{"instruction":"23 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":23}}}}
+{"instruction":"1 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":1}}}}
+{"instruction":"4 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":4}}}}
+{"instruction":"16 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":16}}}}
+{"instruction":"92 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":92}}}}
+{"instruction":"55 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":55}}}}
+{"instruction":"87 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":87}}}}
+{"instruction":"77 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":77}}}}
+{"instruction":"71 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":71}}}}
+{"instruction":"33 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":33}}}}
+{"instruction":"12 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":12}}}}
+{"instruction":"77 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":77}}}}
+{"instruction":"75 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":75}}}}
+{"instruction":"80 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":80}}}}
+{"instruction":"87 realistic, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":87}}}}
+{"instruction":"64 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":64}}}}
+{"instruction":"77 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":77}}}}
+{"instruction":"14 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":14}}}}
+{"instruction":"11 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":11}}}}
+{"instruction":"11 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":11}}}}
+{"instruction":"55 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":55}}}}
+{"instruction":"58 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":58}}}}
+{"instruction":"85 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":85}}}}
+{"instruction":"51 stylized, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"stylized","batch":{"count":51}}}}
+{"instruction":"21 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":21}}}}
+{"instruction":"62 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":62}}}}
+{"instruction":"29 stylized, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"stylized","batch":{"count":29}}}}
+{"instruction":"46 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":46}}}}
+{"instruction":"3 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":3}}}}
+{"instruction":"75 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":75}}}}
+{"instruction":"79 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":79}}}}
+{"instruction":"6 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":6}}}}
+{"instruction":"50 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":50}}}}
+{"instruction":"37 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":37}}}}
+{"instruction":"4 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":4}}}}
+{"instruction":"37 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":37}}}}
+{"instruction":"72 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":72}}}}
+{"instruction":"64 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":64}}}}
+{"instruction":"86 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":86}}}}
+{"instruction":"35 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":35}}}}
+{"instruction":"59 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":59}}}}
+{"instruction":"70 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":70}}}}
+{"instruction":"75 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":75}}}}
+{"instruction":"14 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":14}}}}
+{"instruction":"81 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":81}}}}
+{"instruction":"99 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":99}}}}
+{"instruction":"24 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":24}}}}
+{"instruction":"62 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":62}}}}
+{"instruction":"10 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":10}}}}
+{"instruction":"61 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":61}}}}
+{"instruction":"96 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":96}}}}
+{"instruction":"10 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":10}}}}
+{"instruction":"8 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":8}}}}
+{"instruction":"44 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":44}}}}
+{"instruction":"20 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":20}}}}
+{"instruction":"99 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":99}}}}
+{"instruction":"34 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":34}}}}
+{"instruction":"61 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":61}}}}
+{"instruction":"46 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":46}}}}
+{"instruction":"7 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":7}}}}
+{"instruction":"80 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":80}}}}
+{"instruction":"84 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":84}}}}
+{"instruction":"31 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":31}}}}
+{"instruction":"38 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":38}}}}
+{"instruction":"9 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":9}}}}
+{"instruction":"7 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":7}}}}
+{"instruction":"29 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":29}}}}
+{"instruction":"20 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":20}}}}
+{"instruction":"82 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":82}}}}
+{"instruction":"36 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":36}}}}
+{"instruction":"91 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":91}}}}
+{"instruction":"63 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":63}}}}
+{"instruction":"88 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":88}}}}
+{"instruction":"79 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":79}}}}
+{"instruction":"81 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":81}}}}
+{"instruction":"51 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":51}}}}
+{"instruction":"48 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":48}}}}
+{"instruction":"12 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":12}}}}
+{"instruction":"79 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":79}}}}
+{"instruction":"35 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":35}}}}
+{"instruction":"9 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":9}}}}
+{"instruction":"27 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":27}}}}
+{"instruction":"50 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":50}}}}
+{"instruction":"17 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":17}}}}
+{"instruction":"43 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":43}}}}
+{"instruction":"96 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":96}}}}
+{"instruction":"100 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":100}}}}
+{"instruction":"52 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":52}}}}
+{"instruction":"61 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":61}}}}
+{"instruction":"95 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":95}}}}
+{"instruction":"85 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":85}}}}
+{"instruction":"36 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":36}}}}
+{"instruction":"56 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":56}}}}
+{"instruction":"86 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":86}}}}
+{"instruction":"72 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":72}}}}
+{"instruction":"55 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":55}}}}
+{"instruction":"86 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":86}}}}
+{"instruction":"82 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":82}}}}
+{"instruction":"16 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":16}}}}
+{"instruction":"19 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":19}}}}
+{"instruction":"57 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":57}}}}
+{"instruction":"59 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":59}}}}
+{"instruction":"100 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":100}}}}
+{"instruction":"1 realistic, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":1}}}}
+{"instruction":"4 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":4}}}}
+{"instruction":"12 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":12}}}}
+{"instruction":"82 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":82}}}}
+{"instruction":"14 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":14}}}}
+{"instruction":"44 stylized, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"stylized","batch":{"count":44}}}}
+{"instruction":"30 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":30}}}}
+{"instruction":"40 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":40}}}}
+{"instruction":"8 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":8}}}}
+{"instruction":"53 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":53}}}}
+{"instruction":"54 cartoon, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"cartoon","batch":{"count":54}}}}
+{"instruction":"39 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":39}}}}
+{"instruction":"84 realistic, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":84}}}}
+{"instruction":"75 stylized, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":75}}}}
+{"instruction":"16 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":16}}}}
+{"instruction":"21 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":21}}}}
+{"instruction":"42 realistic, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"realistic","batch":{"count":42}}}}
+{"instruction":"100 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":100}}}}
+{"instruction":"12 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":12}}}}
+{"instruction":"19 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":19}}}}
+{"instruction":"12 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":12}}}}
+{"instruction":"25 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":25}}}}
+{"instruction":"87 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":87}}}}
+{"instruction":"50 realistic, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":50}}}}
+{"instruction":"33 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":33}}}}
+{"instruction":"66 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":66}}}}
+{"instruction":"100 stylized, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"stylized","batch":{"count":100}}}}
+{"instruction":"32 realistic, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"realistic","batch":{"count":32}}}}
+{"instruction":"24 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":24}}}}
+{"instruction":"70 cartoon, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":70}}}}
+{"instruction":"15 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":15}}}}
+{"instruction":"77 stylized, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":77}}}}
+{"instruction":"24 cartoon, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"cartoon","batch":{"count":24}}}}
+{"instruction":"58 realistic, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"realistic","batch":{"count":58}}}}
+{"instruction":"31 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":31}}}}
+{"instruction":"59 cartoon, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"cartoon","batch":{"count":59}}}}
+{"instruction":"11 realistic, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":11}}}}
+{"instruction":"52 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":52}}}}
+{"instruction":"86 realistic, low, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"low","style":"realistic","batch":{"count":86}}}}
+{"instruction":"41 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":41}}}}
+{"instruction":"49 realistic, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":49}}}}
+{"instruction":"90 cartoon, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":90}}}}
+{"instruction":"50 stylized, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"stylized","batch":{"count":50}}}}
+{"instruction":"34 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":34}}}}
+{"instruction":"26 cartoon, low, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"low","style":"cartoon","batch":{"count":26}}}}
+{"instruction":"60 cartoon, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"cartoon","batch":{"count":60}}}}
+{"instruction":"64 stylized, realtime, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":64}}}}
+{"instruction":"43 cartoon, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"cartoon","batch":{"count":43}}}}
+{"instruction":"72 realistic, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":72}}}}
+{"instruction":"73 stylized, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":73}}}}
+{"instruction":"20 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":20}}}}
+{"instruction":"11 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":11}}}}
+{"instruction":"6 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":6}}}}
+{"instruction":"73 cartoon, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"cartoon","batch":{"count":73}}}}

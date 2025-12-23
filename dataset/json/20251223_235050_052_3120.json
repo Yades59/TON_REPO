@@ -1,0 +1,13 @@
+﻿{
+    "pipeline_metahuman":  {
+                               "export":  {
+                                              "fbx":  true,
+                                              "glb":  false
+                                          },
+                               "performance":  "cinematic",
+                               "style":  "stylized",
+                               "batch":  {
+                                             "count":  71
+                                         }
+                           }
+}
