@@ -1,0 +1,21 @@
+name: Validate MetaHuman JSON
+
+on:
+  push:
+    paths:
+      - "data/**/*.json"
+      - "schema/**/*.json"
+      - ".github/workflows/validate-metahuman.yml"
+  pull_request:
+    paths:
+      - "data/**/*.json"
+      - "schema/**/*.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          n

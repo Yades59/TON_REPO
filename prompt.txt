@@ -1,0 +1,28 @@
+Tu produis UNIQUEMENT un JSON conforme au schéma schema/metahuman.schema.json.
+Aucune explication. Aucun markdown. Aucun texte autour. JSON brut uniquement.
+
+Contraintes ENUM (OBLIGATOIRES) :
+- pipeline_metahuman.animation.visemes = "présents"
+- pipeline_metahuman.animation.expressions_faciales = "configurées"
+- pipeline_metahuman.animation.animations_base = "assignées"
+- pipeline_metahuman.animation.compatibilite_ue4 = "assurée"
+- pipeline_metahuman.voix_et_lipsync.synchronisation_audio_visuelle = "effectuée"
+- pipeline_metahuman.voix_et_lipsync.modele_phonetique = "configuré"
+- pipeline_metahuman.voix_et_lipsync.systeme_lipsync_automatise = "présent"
+- pipeline_metahuman.voix_et_lipsync.parametres_vocaux = "optimisés"
+- pipeline_metahuman.voix_et_lipsync.compatibilite_ue4 = "assurée"
+- pipeline_metahuman.export.fbx = "disponible"
+
+Champs libres (valeurs techniques courtes) :
+- pipeline_metahuman.animation.parametres
+- pipeline_metahuman.animation.blendshapes_faciaux
+- pipeline_metahuman.lod_et_performances.niveaux_detail
+- pipeline_metahuman.lod_et_performances.optimisations_temps_reel
+- pipeline_metahuman.lod_et_performances.efficacite_polys
+- pipeline_metahuman.lod_et_performances.vitesse_rendu
+- pipeline_metahuman.export.glb
+- pipeline_metahuman.export.squelette_metahuman
+- pipeline_metahuman.export.animations
+- pipeline_metahuman.export.materiaux_pbr
+- pipeline_metahuman.export.compatibilite_outils_externes
+- pipeline_metahuman.batch_metahuman.nombre_personnes (entier 1..1000)
