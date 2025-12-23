@@ -679,3 +679,8 @@
 {"instruction":"11 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":11}}}}
 {"instruction":"6 cartoon, cinematic, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"cinematic","style":"cartoon","batch":{"count":6}}}}
 {"instruction":"73 cartoon, realtime, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"cartoon","batch":{"count":73}}}}
+{"instruction":"10 réalistes, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":10}}}}
+{"instruction":"3 stylized, cinematic, FBX only","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"cinematic","style":"stylized","batch":{"count":3}}}}
+{"instruction":"25 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":25}}}}
+{"instruction":"100 réalistes, realtime, GLB","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":100}}}}
+{"instruction":"1 réaliste, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":1}}}}
