@@ -15,7 +15,20 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          n
+          node-version: "20"
+
+      - name: Install ajv-cli
+        run: npm i -g ajv-cli
+
+      - name: Validate pipeline JSON
+        run: |
+          ajv validate \
+            -s schema/metahuman.schema.json \
+            -d data/pipeline_metahuman.json \
+            --strict=true
