@@ -1,0 +1,14 @@
+﻿{
+    "pipeline_metahuman":  {
+                               "lipsync":  "auto",
+                               "performance":  "realtime",
+                               "style":  "realistic",
+                               "batch":  {
+                                             "count":  10
+                                         },
+                               "export":  {
+                                              "fbx":  true,
+                                              "glb":  true
+                                          }
+                           }
+}
