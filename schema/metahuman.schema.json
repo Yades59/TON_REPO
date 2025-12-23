@@ -6,101 +6,32 @@
   "properties": {
     "pipeline_metahuman": {
       "type": "object",
-      "required": [
-        "animation",
-        "voix_et_lipsync",
-        "lod_et_performances",
-        "export",
-        "batch_metahuman"
-      ],
+      "required": ["style", "performance", "export", "batch"],
       "additionalProperties": false,
       "properties": {
-        "animation": {
-          "type": "object",
-          "required": [
-            "parametres",
-            "blendshapes_faciaux",
-            "visemes",
-            "expressions_faciales",
-            "animations_base",
-            "compatibilite_ue4"
-          ],
-          "additionalProperties": false,
-          "properties": {
-            "parametres": { "type": "string" },
-            "blendshapes_faciaux": { "type": "string" },
-            "visemes": { "type": "string" },
-            "expressions_faciales": { "type": "string" },
-            "animations_base": { "type": "string" },
-            "compatibilite_ue4": { "type": "string" }
-          }
+        "style": {
+          "type": "string",
+          "enum": ["realistic", "stylized", "cartoon"]
         },
-        "voix_et_lipsync": {
-          "type": "object",
-          "required": [
-            "synchronisation_audio_visuelle",
-            "modele_phonetique",
-            "systeme_lipsync_automatise",
-            "parametres_vocaux",
-            "compatibilite_ue4"
-          ],
-          "additionalProperties": false,
-          "properties": {
-            "synchronisation_audio_visuelle": { "type": "string" },
-            "modele_phonetique": { "type": "string" },
-            "systeme_lipsync_automatise": { "type": "string" },
-            "parametres_vocaux": { "type": "string" },
-            "compatibilite_ue4": { "type": "string" }
-          }
-        },
-        "lod_et_performances": {
-          "type": "object",
-          "required": [
-            "niveaux_detail",
-            "optimisations_temps_reel",
-            "efficacite_polys",
-            "vitesse_rendu",
-            "compatibilite_ue4"
-          ],
-          "additionalProperties": false,
-          "properties": {
-            "niveaux_detail": { "type": "string" },
-            "optimisations_temps_reel": { "type": "string" },
-            "efficacite_polys": { "type": "string" },
-            "vitesse_rendu": { "type": "string" },
-            "compatibilite_ue4": { "type": "string" }
-          }
+        "performance": {
+          "type": "string",
+          "enum": ["realtime", "cinematic", "low"]
         },
         "export": {
           "type": "object",
-          "required": [
-            "fbx",
-            "glb",
-            "squelette_metahuman",
-            "animations",
-            "materiaux_pbr",
-            "compatibilite_outils_externes"
-          ],
+          "required": ["fbx", "glb"],
           "additionalProperties": false,
           "properties": {
-            "fbx": { "type": "string" },
-            "glb": { "type": "string" },
-            "squelette_metahuman": { "type": "string" },
-            "animations": { "type": "string" },
-            "materiaux_pbr": { "type": "string" },
-            "compatibilite_outils_externes": { "type": "string" }
+            "fbx": { "type": "boolean" },
+            "glb": { "type": "boolean" }
           }
         },
-        "batch_metahuman": {
+        "batch": {
           "type": "object",
-          "required": ["nombre_personnages"],
-          "additionalProperties": true,
+          "required": ["count"],
+          "additionalProperties": false,
           "properties": {
-            "nombre_personnages": {
-              "type": "integer",
-              "minimum": 1,
-              "maximum": 1000
-            }
+            "count": { "type": "integer", "minimum": 1, "maximum": 1000 }
           }
         }
       }

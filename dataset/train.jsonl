@@ -66,3 +66,8 @@
 {"instruction":"1 réaliste, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":1}}}}
 {"instruction":"1 réaliste, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":1}}}}
 {"instruction":"100 stylized, realtime, GLB","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"stylized","batch":{"count":100}}}}
+{"instruction":"cd C:\\metahuman-pipeline","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":1}}}}
+{"instruction":"powershell -ExecutionPolicy Bypass -File .\\make_jsonl.ps1","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":1}}}}
+{"instruction":"powershell -ExecutionPolicy Bypass -File .\\make_jsonl.ps1","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":1}}}}
+{"instruction":"cd C:\\metahuman-pipeline","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":1}}}}
+{"instruction":"git push","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":1}}}}
