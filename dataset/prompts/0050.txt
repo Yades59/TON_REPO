@@ -1,0 +1,1 @@
+﻿Setup MetaHuman UE: blendshapes, visèmes, anim base, lipsync, LOD, export externe.

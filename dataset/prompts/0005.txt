@@ -1,0 +1,1 @@
+﻿MetaHuman réaliste UE: visèmes + expressions, lipsync auto, LOD temps réel, export complet.

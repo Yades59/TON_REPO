@@ -1,0 +1,1 @@
+﻿Pipeline MetaHuman: animation faciale complète, voix/lipsync configurés, perf optimisées.
