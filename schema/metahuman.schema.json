@@ -25,6 +25,7 @@
             "animations_base",
             "compatibilite_ue4"
           ],
+          "additionalProperties": false,
           "properties": {
             "parametres": { "type": "string" },
             "blendshapes_faciaux": { "type": "string" },
@@ -43,6 +44,7 @@
             "parametres_vocaux",
             "compatibilite_ue4"
           ],
+          "additionalProperties": false,
           "properties": {
             "synchronisation_audio_visuelle": { "type": "string" },
             "modele_phonetique": { "type": "string" },
@@ -60,6 +62,7 @@
             "vitesse_rendu",
             "compatibilite_ue4"
           ],
+          "additionalProperties": false,
           "properties": {
             "niveaux_detail": { "type": "string" },
             "optimisations_temps_reel": { "type": "string" },
@@ -78,6 +81,7 @@
             "materiaux_pbr",
             "compatibilite_outils_externes"
           ],
+          "additionalProperties": false,
           "properties": {
             "fbx": { "type": "string" },
             "glb": { "type": "string" },
@@ -90,6 +94,7 @@
         "batch_metahuman": {
           "type": "object",
           "required": ["nombre_personnages"],
+          "additionalProperties": true,
           "properties": {
             "nombre_personnages": {
               "type": "integer",

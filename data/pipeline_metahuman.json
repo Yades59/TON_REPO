@@ -1,37 +1,37 @@
 ﻿{
-    "pipeline_metahuman":  {
-                               "export":  {
-                                              "animations":  "included",
-                                              "squelette_metahuman":  "preserved",
-                                              "materiaux_pbr":  "included",
-                                              "glb":  "available",
-                                              "compatibilite_outils_externes":  "assured",
-                                              "fbx":  "available"
-                                          },
-                               "lod_et_performances":  {
-                                                           "vitesse_rendu":  "optimized",
-                                                           "compatibilite_ue4":  "assured",
-                                                           "efficacite_polys":  "optimized",
-                                                           "niveaux_detail":  "configured",
-                                                           "optimisations_temps_reel":  "applied"
-                                                       },
-                               "batch_metahuman":  {
-                                                       "nombre_personnages":  10
-                                                   },
-                               "voix_et_lipsync":  {
-                                                       "parametres_vocaux":  "optimized",
-                                                       "systeme_lipsync_automatise":  "present",
-                                                       "compatibilite_ue4":  "assured",
-                                                       "synchronisation_audio_visuelle":  "done",
-                                                       "modele_phonetique":  "configured"
-                                                   },
-                               "animation":  {
-                                                 "expressions_faciales":  "configured",
-                                                 "compatibilite_ue4":  "assured",
-                                                 "visemes":  "present",
-                                                 "animations_base":  "assigned",
-                                                 "blendshapes_faciaux":  "available",
-                                                 "parametres":  "configured"
-                                             }
-                           }
+  "pipeline_metahuman": {
+    "animation": {
+      "parametres": "configured",
+      "blendshapes_faciaux": "available",
+      "visemes": "present",
+      "expressions_faciales": "configured",
+      "animations_base": "assigned",
+      "compatibilite_ue4": "assured"
+    },
+    "voix_et_lipsync": {
+      "synchronisation_audio_visuelle": "done",
+      "modele_phonetique": "configured",
+      "systeme_lipsync_automatise": "present",
+      "parametres_vocaux": "optimized",
+      "compatibilite_ue4": "assured"
+    },
+    "lod_et_performances": {
+      "niveaux_detail": "configured",
+      "optimisations_temps_reel": "applied",
+      "efficacite_polys": "optimized",
+      "vitesse_rendu": "optimized",
+      "compatibilite_ue4": "assured"
+    },
+    "export": {
+      "fbx": "available",
+      "glb": "available",
+      "squelette_metahuman": "preserved",
+      "animations": "included",
+      "materiaux_pbr": "included",
+      "compatibilite_outils_externes": "assured"
+    },
+    "batch_metahuman": {
+      "nombre_personnages": 10
+    }
+  }
 }
