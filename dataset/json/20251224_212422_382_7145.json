@@ -1,0 +1,9 @@
+﻿{
+  "pipeline_metahuman": {
+    "style": "cartoon",
+    "performance": "realtime",
+    "export": { "fbx": false, "glb": true },
+    "batch": { "count": 6 }
+  }
+}
+
