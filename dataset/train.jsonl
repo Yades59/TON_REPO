@@ -684,3 +684,7 @@
 {"instruction":"25 cartoon, low, GLB only","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"cartoon","batch":{"count":25}}}}
 {"instruction":"100 réalistes, realtime, GLB","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":100}}}}
 {"instruction":"1 réaliste, cinematic, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":1}}}}
+{"instruction":"10 réalistes, realtime, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"realtime","style":"realistic","batch":{"count":10}}}}
+{"instruction":"12 réalistes UE5, realtime, export FBX","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":false},"performance":"realtime","style":"realistic","batch":{"count":12}}}}
+{"instruction":"50 stylized personnages pour jeu mobile, low, GLB","output":{"pipeline_metahuman":{"export":{"fbx":false,"glb":true},"performance":"low","style":"stylized","batch":{"count":50}}}}
+{"instruction":"1 MetaHuman cinematic ultra détaillé, FBX + GLB","output":{"pipeline_metahuman":{"export":{"fbx":true,"glb":true},"performance":"cinematic","style":"realistic","batch":{"count":1}}}}
